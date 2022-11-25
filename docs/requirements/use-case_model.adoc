@@ -7,12 +7,22 @@ include::../_includes/default-attributes.inc.adoc[]
 
 == Allgemeine Informationen
 // ...
+=== Identifizierte Akteure
+* *Wir*: System entwickler 
+* *Barbetreiber*: Mixt die verschiedenen Drinks die versendet werden sollen
+* *Mitarbeiter*: Bestellungen annehmen 
+* *Kunden*: Bestellung aufgeben
+* *Zahlplatform*: Zahlungen ermöglichen
+
 
 
 == Identifizierte Use Cases
 // Liste aller identifizierten Use Cases (priorisiert)
-* *UC01*: ...
-* *UC02*: ...
+* *UC01*: Entwicklung der Website/Systems
+* *UC02*: Besstelungen Annehmen
+* *UC03*: Bestellungen Ausgeben 
+* *UC04*: Verwaltung
+* *UC05*: Zahlungen ermöglichen  
 
 
 == Use Case Diagramm
